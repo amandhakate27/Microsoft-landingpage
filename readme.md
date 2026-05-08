@@ -20,4 +20,5 @@ A simple static HTML/CSS project recreating a Microsoft-styled landing page. Int
 
 Add a live demo link once deployed (GitHub Pages / Netlify / Vercel):
 
-[Live demo coming soon](#)
+[https://ui-practice-micro-soft-clone.netlify.app/](#)
+    
